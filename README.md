@@ -2,8 +2,8 @@
 - 👀 I’m interested in Minecraft
 - 🌱 I’m currently learning C++ & Qt
 - 📫 How to reach me
-  - 📧E-mail:czj_____a@163.com
-  - 🐧QQ:2762783461
+  - 📧E-mail: Hatsushigure_c@163.com
+  - 🐧QQ: 2762783461
 - 📺 My Bilibili id is [初時雨](https://space.bilibili.com/520580199)
 
 <!---
