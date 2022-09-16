@@ -4,7 +4,7 @@
 - 📫 How to reach me
   - 📧E-mail:czj_____a@163.com
   - 🐧QQ:2762783461
-- 📺 My Bilibili id is [czj_____](https://space.bilibili.com/520580199)
+- 📺 My Bilibili id is [初時雨](https://space.bilibili.com/520580199)
 
 <!---
 czj00000/czj00000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
