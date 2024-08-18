@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Hatsushigure
+- 👋 Hi, I’m @Hatsushigure, a MtF🏳️‍⚧️ at HUST
 - 👀 I’m interested in Minecraft
 - 🌱 I’m currently learning C++ & Qt
 - 📫 How to reach me
-  - 📧E-mail: Hatsushigure_c@163.com
+  - 📧E-mail: Hatsushigure.c@gmail.com
   - 🐧QQ: 2762783461
   - ✈️Telegram: [@Hatsushigure](https://t.me/hatsushigure/)
 - 📺 My Bilibili id is [初時雨](https://space.bilibili.com/520580199)
